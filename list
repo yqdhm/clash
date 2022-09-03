@@ -57,10 +57,10 @@ custom_proxy_group=国内媒体`select`.*
 custom_proxy_group=谷歌FCM`select`.*
 custom_proxy_group=游戏平台`select`.*
 custom_proxy_group=网易音乐`select`.*
-custom_proxy_group=全球直连`select`.*
+custom_proxy_group=全球直连`select`[]DIRECT`[]🚀 手动切换
 custom_proxy_group=广告拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=应用净化`select`[]REJECT`[]DIRECT
-custom_proxy_group=漏网之鱼`select`[]DIRECT`.*
+custom_proxy_group=漏网之鱼`select`[]DIRECT`[]🚀 手动切换
 ;设置分组标志位
 
 enable_rule_generator=true
