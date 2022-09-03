@@ -60,7 +60,7 @@ custom_proxy_group=网易音乐`select`.*
 custom_proxy_group=全球直连`select`.*
 custom_proxy_group=广告拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=应用净化`select`[]REJECT`[]DIRECT
-custom_proxy_group=漏网之鱼`select`[]DIRECT`
+custom_proxy_group=漏网之鱼`select`[]DIRECT`.*
 ;设置分组标志位
 
 enable_rule_generator=true
