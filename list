@@ -30,6 +30,7 @@ ruleset=Spotify,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Global
 ruleset=emby,https://raw.githubusercontent.com/15296561973/clash/main/emby.list
 ruleset=哔哩哔哩,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/BilibiliHMT.list
 ruleset=哔哩哔哩,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list
+ruleset=哔哩哔哩,https://raw.githubusercontent.com/15296561973/clash/main/bilibili.list
 ruleset=国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
 ruleset=国外媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
 ruleset=节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
