@@ -33,7 +33,6 @@ ruleset=哔哩哔哩,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Cl
 ruleset=哔哩哔哩,https://raw.githubusercontent.com/15296561973/clash/main/bilibili.list
 ruleset=国内媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaMedia.list
 ruleset=国外媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
-ruleset=节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
 ruleset=DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaIp.list
 ruleset=DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 ruleset=DIRECT,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
@@ -42,6 +41,7 @@ ruleset=DIRECT,https://raw.githubusercontent.com/AGWA5783/Profiles/master/Surge/
 ruleset=DIRECT,https://raw.githubusercontent.com/AGWA5783/Profiles/master/Surge/Ruleset/LocalAreaNetwork.list
 ruleset=DIRECT,[]GEOIP,LAN
 ruleset=DIRECT,[]GEOIP,CN
+ruleset=节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
 ruleset=漏网之鱼,[]FINAL
 ;设置规则标志位
 
