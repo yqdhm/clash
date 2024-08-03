@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN,dns11.quad9.net
+  - DOMAIN,dns.google
+  - IP-CIDR,8.8.8.8/32,no-resolve
+  - IP-CIDR,8.8.4.4/32,no-resolve
+  - IP-CIDR,9.9.9.11/32,no-resolve
+  - IP-CIDR,149.112.112.11/32,no-resolve
