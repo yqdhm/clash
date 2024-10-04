@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,cdn-qc.content.steamchina.com
   - DOMAIN-SUFFIX,cdn-ali.content.steamchina.com
   - DOMAIN-SUFFIX,steamserver.net
+  - DOMAIN-SUFFIX,resolver.dnscrypt.info
