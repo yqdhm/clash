@@ -7,4 +7,5 @@ payload:
   - DOMAIN-SUFFIX,iegcom.com 
   - DOMAIN,cdn.wetest.net
   - DOMAIN,android.crashsight.wetest.net
+  - DOMAIN,hok.intlgame.com
   - DOMAIN-SUFFIX,onezapp.com
