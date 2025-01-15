@@ -9,3 +9,5 @@ payload:
   - DOMAIN,android.crashsight.wetest.net
   - DOMAIN,hok.intlgame.com
   - DOMAIN-SUFFIX,onezapp.com
+  - DOMAIN-SUFFIX,cloudapp.net
+  - DOMAIN-SUFFIX,cloudapp.azure.com
