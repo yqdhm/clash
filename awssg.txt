@@ -1,3 +1,4 @@
+35.72.0.0/13
 #https://api.octoperf.com/doc/runtime/aws/#asia-pacific-singapore
 15.193.2.0/24
 15.177.82.0/24
