@@ -1,3 +1,4 @@
+3.64.0.0/12
 #https://api.octoperf.com/doc/runtime/aws/#japan-tokyo
 43.206.0.0/15
 54.248.0.0/15
